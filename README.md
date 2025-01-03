@@ -1,6 +1,3 @@
-### README for SMIT-AIDS-2024 Projects and Assignments Repository
-
-
 #### **Welcome to the SMIT-AIDS-2024 Repository!**
 
 This repository contains projects and assignments created as part of the **Artificial Intelligence and Data Science (AIDS)** program at **SMIT**, batch of 2024.
