@@ -1,0 +1,3 @@
+1234|Sufyan|3401.0||Type: Deposit, Amount = $4000.0, Balance = $4000.0|Type: Withdrawal, Withdrawal-Amount = $599.0, Balance = $3401.0
+2222|Rabeet|700.0|Type: Deposit, Amount = $3000.0, Balance = $3000.0|Type: Withdrawal, Withdrawal-Amount = $2300.0, Balance = $700.0
+3333|Usman|1650.0|Type: Deposit, Amount = $4000.0, Balance = $4000.0|Type: Withdrawal, Withdrawal-Amount = $2350.0, Balance = $1650.0
